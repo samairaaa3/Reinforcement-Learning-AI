@@ -28,3 +28,7 @@ python gridworld.py -a value -i 100
 python gridworld.py -a q
 ## Purpose
 This repository demonstrates practical implementations of reinforcement learning algorithms and showcases understanding of policy computation, exploration strategies, and agent evaluation.
+## Screenshots
+<img width="1207" height="815" alt="Screenshot 2025-11-20 at 7 10 24 PM" src="https://github.com/user-attachments/assets/20148e95-d9d7-4ed9-a6bc-e3c3685eaa1b" />
+<img width="669" height="626" alt="Screenshot 2025-11-20 at 7 10 30 PM" src="https://github.com/user-attachments/assets/f3adcefd-ccbe-40ce-a6c8-e8e7adbf152e" />
+
